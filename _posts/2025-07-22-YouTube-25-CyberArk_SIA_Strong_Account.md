@@ -3,10 +3,8 @@ title: "#26 - CyberArk SIA Windows Strong Account"
 date: 2025-07-22 08:10:10 +1100
 categories: [CyberArk Privilege Cloud]
 tags: [cyberark,privilegecloud,Identity,SIA,ZSP,CPM]     # TAG names should always be lowercase
-image:
-  path: /assets/img/headers/25thumb.png
 ---
-In this video, we walk through the full process of.....
+Welcome back to the CyberArk SIA series! In this video, we take a deep dive into the SIA Windows Strong Account, focusing on how to enforce least privilege wherever possible through secure configuration and testing.
 
 [![Video Preview](https://i.ytimg.com/vi/TDqr6yvKIS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=TDqr6yvKIS4)
 
