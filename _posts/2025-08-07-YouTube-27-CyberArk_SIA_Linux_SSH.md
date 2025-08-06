@@ -13,7 +13,15 @@ TBC
 
 ## Objectives
 
-TBC
+- Applying the right level of Privilege Controls
+- Review PSM, PSMP, and SIA architecture
+- Review SIA: Connector install, Pools, Networks, and general settings
+- Connect via SIA-SSH using vaulted credentials
+- Deploy SIA CA and create recurring access policies
+- Understand SSH fingerprinting
+- Understand SSH certificate authority
+- Review auditing capabilities
+
 
 ## Timeline
 
